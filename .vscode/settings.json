@@ -4,8 +4,11 @@
     "createdb",
     "DBML",
     "dropdb",
+    "duynghiadev",
     "migratedown",
     "migrateup",
+    "simplebank",
+    "sqlc",
     "sslmode",
     "timestamptz",
     "varchar"
