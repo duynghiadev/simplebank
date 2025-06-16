@@ -1,3 +1,13 @@
 {
-  "cSpell.words": ["bigserial", "DBML", "timestamptz", "varchar"]
+  "cSpell.words": [
+    "bigserial",
+    "createdb",
+    "DBML",
+    "dropdb",
+    "migratedown",
+    "migrateup",
+    "sslmode",
+    "timestamptz",
+    "varchar"
+  ]
 }
