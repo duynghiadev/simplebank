@@ -3,6 +3,7 @@
     "bigserial",
     "createdb",
     "DBML",
+    "DBTX",
     "dropdb",
     "duynghiadev",
     "migratedown",
