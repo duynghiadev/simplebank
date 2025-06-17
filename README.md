@@ -165,6 +165,11 @@ The service that we’re going to build is a simple bank. It will provide APIs f
   dbdocs login
   ```
 
+  - I use the Google account `duynghia22302@gmail.com` to log in. After logging in, a token will be received. Use this token to log in to dbdocs. Copy and paste this token into the command line.
+  - [dbdocs.io/duynghia22302/simple_bank](https://dbdocs.io/duynghia22302/simple_bank?view=table_structure)
+  - Images:
+  - ![1750133389077](image/README/1750133389077.png)
+
 - [DBML CLI](https://www.dbml.org/cli/#installation)
 
   ```bash
@@ -186,10 +191,10 @@ The service that we’re going to build is a simple bank. It will provide APIs f
 
 ### Setup infrastructure
 
-- Create the bank-network
+- Create the bank-network-main
 
   ```bash
-  make network
+  make network-main
   ```
 
 - Start postgres container:
